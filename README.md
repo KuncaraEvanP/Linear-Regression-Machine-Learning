@@ -8,3 +8,5 @@ And evaluate the results of the modelling using RMSE, MAE (Mean Absolute Error),
 - The main objective is to discover the best model between Ridge and Lasso Linear Regression.
 - Determining the best Lambda for each model
 - Evaluating the model
+
+I use raw data which can be accessed at the following link https://raw.githubusercontent.com/pararawendy/dibimbing-materials/main/boston.csv
