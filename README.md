@@ -9,4 +9,4 @@ And evaluate the results of the modelling using RMSE, MAE (Mean Absolute Error),
 - Determining the best Lambda for each model
 - Evaluating the model
 
-I use raw data which can be accessed at the following link https://raw.githubusercontent.com/pararawendy/dibimbing-materials/main/boston.csv
+I use raw data which can be accessed at the following link:  https://raw.githubusercontent.com/pararawendy/dibimbing-materials/main/boston.csv
